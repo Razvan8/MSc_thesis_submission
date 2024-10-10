@@ -2,7 +2,7 @@
 
 ###Create a load_data function
 
-load_deoxi_flourination<-function(data_path=file.path("..", "..","data"))
+load_deoxi_flourination<-function(data_path=file.path("..","Data"))
   
 {library(dplyr)
   # Constructing the path to the "libs" folder

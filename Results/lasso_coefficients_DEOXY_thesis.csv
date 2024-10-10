@@ -1,0 +1,741 @@
+"","V1"
+"intercept",-3.31240109640265
+"alcohol 1",3.72173382336086
+"alcohol 2",2.08837365510513
+"alcohol 3",-15.8988419986981
+"alcohol 4",5.3672529821855
+"alcohol 5",1.56921423545556
+"alcohol 6",-8.28224416050716
+"alcohol 7",1.00647872519568
+"alcohol 8",6.85895222657441
+"alcohol 9",1.39268504689862
+"alcohol 10",6.07964864892872
+"alcohol 11",3.90019539239645
+"alcohol 12",6.21043746958003
+"alcohol 13",3.60289796794112
+"alcohol 14",-5.93651623527742
+"alcohol 15",2.25411044295307
+"alcohol 16",7.53642101560256
+"alcohol 17",-12.0728012286832
+"alcohol 18",11.3956061694712
+"alcohol 19",5.31174446034115
+"alcohol 20",0.319166985050385
+"alcohol 21",5.39796111479497
+"alcohol 22",-1.33250254178384
+"alcohol 23",3.73214944609756
+"alcohol 24",-12.2971917690124
+"alcohol 25",-3.53734177050374
+"alcohol 26",-7.52868581920011
+"alcohol 27",-9.65702381712432
+"alcohol 28",0.180264497221811
+"alcohol 29",4.24034346796493
+"alcohol 30",0.0606609431669297
+"alcohol 31",3.34465915589069
+"alcohol 32",1.27149345854961
+"alcohol 33",2.38648721718196
+"alcohol 34",-0.23408467188767
+"alcohol 35",-0.967481043263719
+"alcohol 36",-18.5127091572474
+"base 1",0.692857478864294
+"base 2",1.03028203194613
+"base 3",-2.03681647800826
+"sulfonyl-fluoride1",0.407175278122033
+"sulfonyl-fluoride2",-1.12571327160804
+"sulfonyl-fluoride3",0.382821775738834
+"sulfonyl-fluoride4",2.91881305203505
+"alcohol 1:base 1",-0.575437845199315
+"alcohol 1:base 2",-0.773747861584781
+"alcohol 1:base 3",0.856698920384998
+"alcohol 1:sulfonyl-fluoride1",0
+"alcohol 1:sulfonyl-fluoride2",0
+"alcohol 1:sulfonyl-fluoride3",0
+"alcohol 1:sulfonyl-fluoride4",-2.43116368784638
+"alcohol 2:base 1",0.275121094502497
+"alcohol 2:base 2",-1.83696516190867
+"alcohol 2:base 3",0.988659176576204
+"alcohol 2:sulfonyl-fluoride1",-0.628409824505146
+"alcohol 2:sulfonyl-fluoride2",-0.0939836634801209
+"alcohol 2:sulfonyl-fluoride3",-0.622160733037097
+"alcohol 2:sulfonyl-fluoride4",0
+"alcohol 3:base 1",0
+"alcohol 3:base 2",0
+"alcohol 3:base 3",0
+"alcohol 3:sulfonyl-fluoride1",0
+"alcohol 3:sulfonyl-fluoride2",0
+"alcohol 3:sulfonyl-fluoride3",0
+"alcohol 3:sulfonyl-fluoride4",0
+"alcohol 4:base 1",0
+"alcohol 4:base 2",-0.796072214526304
+"alcohol 4:base 3",0.777195467432564
+"alcohol 4:sulfonyl-fluoride1",-0.513495778996121
+"alcohol 4:sulfonyl-fluoride2",0.499118555812385
+"alcohol 4:sulfonyl-fluoride3",-2.93668642859296
+"alcohol 4:sulfonyl-fluoride4",0
+"alcohol 5:base 1",-0.00130937492407511
+"alcohol 5:base 2",-0.80618941284239
+"alcohol 5:base 3",1.45118583060387
+"alcohol 5:sulfonyl-fluoride1",0.114114225129567
+"alcohol 5:sulfonyl-fluoride2",0.440829425160942
+"alcohol 5:sulfonyl-fluoride3",-2.3288971175936
+"alcohol 5:sulfonyl-fluoride4",-2.43611983673206
+"alcohol 6:base 1",0
+"alcohol 6:base 2",0
+"alcohol 6:base 3",0
+"alcohol 6:sulfonyl-fluoride1",0
+"alcohol 6:sulfonyl-fluoride2",0
+"alcohol 6:sulfonyl-fluoride3",0
+"alcohol 6:sulfonyl-fluoride4",0
+"alcohol 7:base 1",0
+"alcohol 7:base 2",-0.985064906867458
+"alcohol 7:base 3",0.762882335142628
+"alcohol 7:sulfonyl-fluoride1",0
+"alcohol 7:sulfonyl-fluoride2",-1.6320089173396
+"alcohol 7:sulfonyl-fluoride3",0.781772431015188
+"alcohol 7:sulfonyl-fluoride4",-2.01116117216536
+"alcohol 8:base 1",0
+"alcohol 8:base 2",-0.225517268415609
+"alcohol 8:base 3",-0.248596477428518
+"alcohol 8:sulfonyl-fluoride1",0
+"alcohol 8:sulfonyl-fluoride2",0.686658661424472
+"alcohol 8:sulfonyl-fluoride3",0
+"alcohol 8:sulfonyl-fluoride4",-3.36237411697294
+"alcohol 9:base 1",-0.596598078905434
+"alcohol 9:base 2",-2.4318682451449
+"alcohol 9:base 3",2.55533986680778
+"alcohol 9:sulfonyl-fluoride1",-1.09285426705621
+"alcohol 9:sulfonyl-fluoride2",-0.331921369963962
+"alcohol 9:sulfonyl-fluoride3",-0.547823728524824
+"alcohol 9:sulfonyl-fluoride4",0
+"alcohol 10:base 1",1.25248720048089
+"alcohol 10:base 2",5.05083299835011
+"alcohol 10:base 3",-4.07026295284281
+"alcohol 10:sulfonyl-fluoride1",-0.03391300517654
+"alcohol 10:sulfonyl-fluoride2",0
+"alcohol 10:sulfonyl-fluoride3",0
+"alcohol 10:sulfonyl-fluoride4",-1.72345363885914
+"alcohol 11:base 1",-1.32643005303664
+"alcohol 11:base 2",-0.640295889884785
+"alcohol 11:base 3",1.37300510775199
+"alcohol 11:sulfonyl-fluoride1",-0.00907705099358098
+"alcohol 11:sulfonyl-fluoride2",-0.953421056500469
+"alcohol 11:sulfonyl-fluoride3",0.427969049977719
+"alcohol 11:sulfonyl-fluoride4",0.773369823290707
+"alcohol 12:base 1",-0.0744799621881566
+"alcohol 12:base 2",-0.141148535859586
+"alcohol 12:base 3",-0.69196971050529
+"alcohol 12:sulfonyl-fluoride1",0
+"alcohol 12:sulfonyl-fluoride2",0
+"alcohol 12:sulfonyl-fluoride3",0
+"alcohol 12:sulfonyl-fluoride4",-1.1832666875747
+"alcohol 13:base 1",1.10676813913039
+"alcohol 13:base 2",3.52748944552615
+"alcohol 13:base 3",-2.25193204968497
+"alcohol 13:sulfonyl-fluoride1",0.0701364759050213
+"alcohol 13:sulfonyl-fluoride2",1.17805147556518
+"alcohol 13:sulfonyl-fluoride3",0.552049253329475
+"alcohol 13:sulfonyl-fluoride4",-3.28354752264213
+"alcohol 14:base 1",0
+"alcohol 14:base 2",0
+"alcohol 14:base 3",0.0964601643822732
+"alcohol 14:sulfonyl-fluoride1",0
+"alcohol 14:sulfonyl-fluoride2",0
+"alcohol 14:sulfonyl-fluoride3",0.566828847375947
+"alcohol 14:sulfonyl-fluoride4",10.7614286856086
+"alcohol 15:base 1",-0.42266100311359
+"alcohol 15:base 2",-1.52258021877413
+"alcohol 15:base 3",1.6212514404431
+"alcohol 15:sulfonyl-fluoride1",-0.640945588454782
+"alcohol 15:sulfonyl-fluoride2",-0.673879485617386
+"alcohol 15:sulfonyl-fluoride3",-0.0496262453071774
+"alcohol 15:sulfonyl-fluoride4",-0.293279853138168
+"alcohol 16:base 1",0
+"alcohol 16:base 2",0.941528564415548
+"alcohol 16:base 3",-1.64712145100615
+"alcohol 16:sulfonyl-fluoride1",0
+"alcohol 16:sulfonyl-fluoride2",0
+"alcohol 16:sulfonyl-fluoride3",0
+"alcohol 16:sulfonyl-fluoride4",-1.7721291803775
+"alcohol 17:base 1",0
+"alcohol 17:base 2",0
+"alcohol 17:base 3",0
+"alcohol 17:sulfonyl-fluoride1",0
+"alcohol 17:sulfonyl-fluoride2",0
+"alcohol 17:sulfonyl-fluoride3",0
+"alcohol 17:sulfonyl-fluoride4",2.73214985546125
+"alcohol 18:base 1",0.867987532122024
+"alcohol 18:base 2",1.84013587813327
+"alcohol 18:base 3",-3.75043763728665
+"alcohol 18:sulfonyl-fluoride1",0
+"alcohol 18:sulfonyl-fluoride2",0
+"alcohol 18:sulfonyl-fluoride3",0
+"alcohol 18:sulfonyl-fluoride4",-2.41877985072673
+"alcohol 19:base 1",0
+"alcohol 19:base 2",-0.565074579018233
+"alcohol 19:base 3",1.36134565219956
+"alcohol 19:sulfonyl-fluoride1",0.0251299049137801
+"alcohol 19:sulfonyl-fluoride2",-0.20712584612332
+"alcohol 19:sulfonyl-fluoride3",0
+"alcohol 19:sulfonyl-fluoride4",-2.70898169468619
+"alcohol 20:base 1",0
+"alcohol 20:base 2",0.131991557178839
+"alcohol 20:base 3",0
+"alcohol 20:sulfonyl-fluoride1",0
+"alcohol 20:sulfonyl-fluoride2",-0.559956434689292
+"alcohol 20:sulfonyl-fluoride3",0
+"alcohol 20:sulfonyl-fluoride4",-1.10538069118044
+"alcohol 21:base 1",0
+"alcohol 21:base 2",-0.846575946380886
+"alcohol 21:base 3",0
+"alcohol 21:sulfonyl-fluoride1",0
+"alcohol 21:sulfonyl-fluoride2",0.220687116160266
+"alcohol 21:sulfonyl-fluoride3",0.0691751955307945
+"alcohol 21:sulfonyl-fluoride4",-3.77348087124477
+"alcohol 22:base 1",0
+"alcohol 22:base 2",0
+"alcohol 22:base 3",-0.035397022218552
+"alcohol 22:sulfonyl-fluoride1",0
+"alcohol 22:sulfonyl-fluoride2",0
+"alcohol 22:sulfonyl-fluoride3",0
+"alcohol 22:sulfonyl-fluoride4",-1.10899597490077
+"alcohol 23:base 1",-0.845808917291441
+"alcohol 23:base 2",-0.0931231753944957
+"alcohol 23:base 3",0.770668545230352
+"alcohol 23:sulfonyl-fluoride1",-0.0727833788636498
+"alcohol 23:sulfonyl-fluoride2",-0.963906343423079
+"alcohol 23:sulfonyl-fluoride3",0
+"alcohol 23:sulfonyl-fluoride4",0
+"alcohol 24:base 1",0
+"alcohol 24:base 2",-0.204286437544174
+"alcohol 24:base 3",0
+"alcohol 24:sulfonyl-fluoride1",0
+"alcohol 24:sulfonyl-fluoride2",0
+"alcohol 24:sulfonyl-fluoride3",0
+"alcohol 24:sulfonyl-fluoride4",14.5974373815725
+"alcohol 25:base 1",0
+"alcohol 25:base 2",0
+"alcohol 25:base 3",0
+"alcohol 25:sulfonyl-fluoride1",-0.163158666586854
+"alcohol 25:sulfonyl-fluoride2",-1.73149767552553
+"alcohol 25:sulfonyl-fluoride3",0
+"alcohol 25:sulfonyl-fluoride4",14.1507568554536
+"alcohol 26:base 1",0
+"alcohol 26:base 2",-0.0292748878651803
+"alcohol 26:base 3",0
+"alcohol 26:sulfonyl-fluoride1",0
+"alcohol 26:sulfonyl-fluoride2",0
+"alcohol 26:sulfonyl-fluoride3",0.420449901912982
+"alcohol 26:sulfonyl-fluoride4",6.73002328446113
+"alcohol 27:base 1",0
+"alcohol 27:base 2",-0.102384625697413
+"alcohol 27:base 3",0
+"alcohol 27:sulfonyl-fluoride1",0
+"alcohol 27:sulfonyl-fluoride2",0
+"alcohol 27:sulfonyl-fluoride3",0
+"alcohol 27:sulfonyl-fluoride4",0
+"alcohol 28:base 1",-0.758352395822652
+"alcohol 28:base 2",-0.865930148275832
+"alcohol 28:base 3",1.40586432066793
+"alcohol 28:sulfonyl-fluoride1",0
+"alcohol 28:sulfonyl-fluoride2",-1.99141582344967
+"alcohol 28:sulfonyl-fluoride3",0.278937880674923
+"alcohol 28:sulfonyl-fluoride4",-0.444816813413047
+"alcohol 29:base 1",1.5441886040441
+"alcohol 29:base 2",2.96865610040352
+"alcohol 29:base 3",-2.18117690112078
+"alcohol 29:sulfonyl-fluoride1",0
+"alcohol 29:sulfonyl-fluoride2",0.282158684193731
+"alcohol 29:sulfonyl-fluoride3",0
+"alcohol 29:sulfonyl-fluoride4",-2.80855864370017
+"alcohol 30:base 1",0
+"alcohol 30:base 2",-0.112552125369574
+"alcohol 30:base 3",0.639940271133593
+"alcohol 30:sulfonyl-fluoride1",0.93660027322232
+"alcohol 30:sulfonyl-fluoride2",2.65086907398188
+"alcohol 30:sulfonyl-fluoride3",1.7341370546206
+"alcohol 30:sulfonyl-fluoride4",-0.317491596655796
+"alcohol 31:base 1",-0.0492080617359185
+"alcohol 31:base 2",-0.108258742188252
+"alcohol 31:base 3",0.224650291532663
+"alcohol 31:sulfonyl-fluoride1",0
+"alcohol 31:sulfonyl-fluoride2",1.24727318088228
+"alcohol 31:sulfonyl-fluoride3",0
+"alcohol 31:sulfonyl-fluoride4",-2.05133041847672
+"alcohol 32:base 1",0
+"alcohol 32:base 2",-0.898280579589792
+"alcohol 32:base 3",1.00111306839129
+"alcohol 32:sulfonyl-fluoride1",0.905282059973365
+"alcohol 32:sulfonyl-fluoride2",1.23452477504006
+"alcohol 32:sulfonyl-fluoride3",0.672677908256394
+"alcohol 32:sulfonyl-fluoride4",-4.99028366046861
+"alcohol 33:base 1",-0.819735537250174
+"alcohol 33:base 2",-0.576310367185885
+"alcohol 33:base 3",0
+"alcohol 33:sulfonyl-fluoride1",-0.267472573156566
+"alcohol 33:sulfonyl-fluoride2",-1.54906119645913
+"alcohol 33:sulfonyl-fluoride3",0
+"alcohol 33:sulfonyl-fluoride4",-0.5549536042675
+"alcohol 34:base 1",0
+"alcohol 34:base 2",0.981475170674411
+"alcohol 34:base 3",-0.270142384359758
+"alcohol 34:sulfonyl-fluoride1",0
+"alcohol 34:sulfonyl-fluoride2",0.572000771568919
+"alcohol 34:sulfonyl-fluoride3",0
+"alcohol 34:sulfonyl-fluoride4",-2.35907266208589
+"alcohol 35:base 1",0
+"alcohol 35:base 2",-0.125082771486563
+"alcohol 35:base 3",0.0562344711196985
+"alcohol 35:sulfonyl-fluoride1",0.692671270151419
+"alcohol 35:sulfonyl-fluoride2",1.7976771224967
+"alcohol 35:sulfonyl-fluoride3",0.468763660903505
+"alcohol 35:sulfonyl-fluoride4",-3.11617962440037
+"alcohol 36:base 1",0
+"alcohol 36:base 2",0
+"alcohol 36:base 3",0
+"alcohol 36:sulfonyl-fluoride1",0
+"alcohol 36:sulfonyl-fluoride2",0
+"alcohol 36:sulfonyl-fluoride3",0
+"alcohol 36:sulfonyl-fluoride4",0
+"base 1:sulfonyl-fluoride1",0.101202164029192
+"base 1:sulfonyl-fluoride2",0
+"base 1:sulfonyl-fluoride3",0.169833678819361
+"base 1:sulfonyl-fluoride4",0
+"base 2:sulfonyl-fluoride1",0.245316097213141
+"base 2:sulfonyl-fluoride2",0.168450412099362
+"base 2:sulfonyl-fluoride3",-0.195537677737102
+"base 2:sulfonyl-fluoride4",0.0869473172504106
+"base 3:sulfonyl-fluoride1",-0.306829048486914
+"base 3:sulfonyl-fluoride2",-0.245930076892251
+"base 3:sulfonyl-fluoride3",0.0828605246353892
+"base 3:sulfonyl-fluoride4",0
+"alcohol 1:base 1:sulfonyl-fluoride1",0
+"alcohol 1:base 1:sulfonyl-fluoride2",0
+"alcohol 1:base 1:sulfonyl-fluoride3",0
+"alcohol 1:base 1:sulfonyl-fluoride4",0
+"alcohol 1:base 2:sulfonyl-fluoride1",0
+"alcohol 1:base 2:sulfonyl-fluoride2",0
+"alcohol 1:base 2:sulfonyl-fluoride3",0
+"alcohol 1:base 2:sulfonyl-fluoride4",0
+"alcohol 1:base 3:sulfonyl-fluoride1",0
+"alcohol 1:base 3:sulfonyl-fluoride2",0
+"alcohol 1:base 3:sulfonyl-fluoride3",0
+"alcohol 1:base 3:sulfonyl-fluoride4",0
+"alcohol 2:base 1:sulfonyl-fluoride1",0
+"alcohol 2:base 1:sulfonyl-fluoride2",0
+"alcohol 2:base 1:sulfonyl-fluoride3",0
+"alcohol 2:base 1:sulfonyl-fluoride4",0
+"alcohol 2:base 2:sulfonyl-fluoride1",0
+"alcohol 2:base 2:sulfonyl-fluoride2",0
+"alcohol 2:base 2:sulfonyl-fluoride3",0
+"alcohol 2:base 2:sulfonyl-fluoride4",-0.0367416445411473
+"alcohol 2:base 3:sulfonyl-fluoride1",0
+"alcohol 2:base 3:sulfonyl-fluoride2",0
+"alcohol 2:base 3:sulfonyl-fluoride3",0
+"alcohol 2:base 3:sulfonyl-fluoride4",0
+"alcohol 3:base 1:sulfonyl-fluoride1",0
+"alcohol 3:base 1:sulfonyl-fluoride2",0
+"alcohol 3:base 1:sulfonyl-fluoride3",0
+"alcohol 3:base 1:sulfonyl-fluoride4",0
+"alcohol 3:base 2:sulfonyl-fluoride1",0
+"alcohol 3:base 2:sulfonyl-fluoride2",0
+"alcohol 3:base 2:sulfonyl-fluoride3",0
+"alcohol 3:base 2:sulfonyl-fluoride4",0
+"alcohol 3:base 3:sulfonyl-fluoride1",0
+"alcohol 3:base 3:sulfonyl-fluoride2",0
+"alcohol 3:base 3:sulfonyl-fluoride3",0
+"alcohol 3:base 3:sulfonyl-fluoride4",0
+"alcohol 4:base 1:sulfonyl-fluoride1",0
+"alcohol 4:base 1:sulfonyl-fluoride2",0
+"alcohol 4:base 1:sulfonyl-fluoride3",0
+"alcohol 4:base 1:sulfonyl-fluoride4",0
+"alcohol 4:base 2:sulfonyl-fluoride1",0
+"alcohol 4:base 2:sulfonyl-fluoride2",0
+"alcohol 4:base 2:sulfonyl-fluoride3",0
+"alcohol 4:base 2:sulfonyl-fluoride4",0
+"alcohol 4:base 3:sulfonyl-fluoride1",0
+"alcohol 4:base 3:sulfonyl-fluoride2",0
+"alcohol 4:base 3:sulfonyl-fluoride3",0
+"alcohol 4:base 3:sulfonyl-fluoride4",0
+"alcohol 5:base 1:sulfonyl-fluoride1",0
+"alcohol 5:base 1:sulfonyl-fluoride2",0
+"alcohol 5:base 1:sulfonyl-fluoride3",0
+"alcohol 5:base 1:sulfonyl-fluoride4",0
+"alcohol 5:base 2:sulfonyl-fluoride1",0
+"alcohol 5:base 2:sulfonyl-fluoride2",0
+"alcohol 5:base 2:sulfonyl-fluoride3",0
+"alcohol 5:base 2:sulfonyl-fluoride4",0
+"alcohol 5:base 3:sulfonyl-fluoride1",0
+"alcohol 5:base 3:sulfonyl-fluoride2",0
+"alcohol 5:base 3:sulfonyl-fluoride3",0.232412909290266
+"alcohol 5:base 3:sulfonyl-fluoride4",0
+"alcohol 6:base 1:sulfonyl-fluoride1",0
+"alcohol 6:base 1:sulfonyl-fluoride2",0
+"alcohol 6:base 1:sulfonyl-fluoride3",0
+"alcohol 6:base 1:sulfonyl-fluoride4",0
+"alcohol 6:base 2:sulfonyl-fluoride1",0
+"alcohol 6:base 2:sulfonyl-fluoride2",0
+"alcohol 6:base 2:sulfonyl-fluoride3",0
+"alcohol 6:base 2:sulfonyl-fluoride4",0
+"alcohol 6:base 3:sulfonyl-fluoride1",0
+"alcohol 6:base 3:sulfonyl-fluoride2",0
+"alcohol 6:base 3:sulfonyl-fluoride3",0
+"alcohol 6:base 3:sulfonyl-fluoride4",0
+"alcohol 7:base 1:sulfonyl-fluoride1",0
+"alcohol 7:base 1:sulfonyl-fluoride2",0
+"alcohol 7:base 1:sulfonyl-fluoride3",0
+"alcohol 7:base 1:sulfonyl-fluoride4",0
+"alcohol 7:base 2:sulfonyl-fluoride1",0
+"alcohol 7:base 2:sulfonyl-fluoride2",0
+"alcohol 7:base 2:sulfonyl-fluoride3",0
+"alcohol 7:base 2:sulfonyl-fluoride4",0.130853989541863
+"alcohol 7:base 3:sulfonyl-fluoride1",0
+"alcohol 7:base 3:sulfonyl-fluoride2",0
+"alcohol 7:base 3:sulfonyl-fluoride3",0
+"alcohol 7:base 3:sulfonyl-fluoride4",0
+"alcohol 8:base 1:sulfonyl-fluoride1",0
+"alcohol 8:base 1:sulfonyl-fluoride2",0
+"alcohol 8:base 1:sulfonyl-fluoride3",0
+"alcohol 8:base 1:sulfonyl-fluoride4",0
+"alcohol 8:base 2:sulfonyl-fluoride1",0
+"alcohol 8:base 2:sulfonyl-fluoride2",0
+"alcohol 8:base 2:sulfonyl-fluoride3",0
+"alcohol 8:base 2:sulfonyl-fluoride4",0
+"alcohol 8:base 3:sulfonyl-fluoride1",0
+"alcohol 8:base 3:sulfonyl-fluoride2",0
+"alcohol 8:base 3:sulfonyl-fluoride3",0
+"alcohol 8:base 3:sulfonyl-fluoride4",0
+"alcohol 9:base 1:sulfonyl-fluoride1",0
+"alcohol 9:base 1:sulfonyl-fluoride2",0
+"alcohol 9:base 1:sulfonyl-fluoride3",0
+"alcohol 9:base 1:sulfonyl-fluoride4",0
+"alcohol 9:base 2:sulfonyl-fluoride1",0
+"alcohol 9:base 2:sulfonyl-fluoride2",0
+"alcohol 9:base 2:sulfonyl-fluoride3",0
+"alcohol 9:base 2:sulfonyl-fluoride4",0.0429992505554877
+"alcohol 9:base 3:sulfonyl-fluoride1",0
+"alcohol 9:base 3:sulfonyl-fluoride2",0
+"alcohol 9:base 3:sulfonyl-fluoride3",0
+"alcohol 9:base 3:sulfonyl-fluoride4",0
+"alcohol 10:base 1:sulfonyl-fluoride1",0
+"alcohol 10:base 1:sulfonyl-fluoride2",0
+"alcohol 10:base 1:sulfonyl-fluoride3",0
+"alcohol 10:base 1:sulfonyl-fluoride4",0
+"alcohol 10:base 2:sulfonyl-fluoride1",0
+"alcohol 10:base 2:sulfonyl-fluoride2",0
+"alcohol 10:base 2:sulfonyl-fluoride3",0
+"alcohol 10:base 2:sulfonyl-fluoride4",0
+"alcohol 10:base 3:sulfonyl-fluoride1",0
+"alcohol 10:base 3:sulfonyl-fluoride2",0
+"alcohol 10:base 3:sulfonyl-fluoride3",0
+"alcohol 10:base 3:sulfonyl-fluoride4",0
+"alcohol 11:base 1:sulfonyl-fluoride1",0
+"alcohol 11:base 1:sulfonyl-fluoride2",0
+"alcohol 11:base 1:sulfonyl-fluoride3",0
+"alcohol 11:base 1:sulfonyl-fluoride4",0
+"alcohol 11:base 2:sulfonyl-fluoride1",0
+"alcohol 11:base 2:sulfonyl-fluoride2",0
+"alcohol 11:base 2:sulfonyl-fluoride3",0
+"alcohol 11:base 2:sulfonyl-fluoride4",0
+"alcohol 11:base 3:sulfonyl-fluoride1",0
+"alcohol 11:base 3:sulfonyl-fluoride2",0
+"alcohol 11:base 3:sulfonyl-fluoride3",0
+"alcohol 11:base 3:sulfonyl-fluoride4",0
+"alcohol 12:base 1:sulfonyl-fluoride1",0
+"alcohol 12:base 1:sulfonyl-fluoride2",0
+"alcohol 12:base 1:sulfonyl-fluoride3",0
+"alcohol 12:base 1:sulfonyl-fluoride4",0
+"alcohol 12:base 2:sulfonyl-fluoride1",0
+"alcohol 12:base 2:sulfonyl-fluoride2",0
+"alcohol 12:base 2:sulfonyl-fluoride3",0
+"alcohol 12:base 2:sulfonyl-fluoride4",0
+"alcohol 12:base 3:sulfonyl-fluoride1",0
+"alcohol 12:base 3:sulfonyl-fluoride2",-0.0756307165537974
+"alcohol 12:base 3:sulfonyl-fluoride3",0
+"alcohol 12:base 3:sulfonyl-fluoride4",0
+"alcohol 13:base 1:sulfonyl-fluoride1",0
+"alcohol 13:base 1:sulfonyl-fluoride2",0
+"alcohol 13:base 1:sulfonyl-fluoride3",0
+"alcohol 13:base 1:sulfonyl-fluoride4",0
+"alcohol 13:base 2:sulfonyl-fluoride1",0
+"alcohol 13:base 2:sulfonyl-fluoride2",0
+"alcohol 13:base 2:sulfonyl-fluoride3",0
+"alcohol 13:base 2:sulfonyl-fluoride4",-0.108752345494638
+"alcohol 13:base 3:sulfonyl-fluoride1",0
+"alcohol 13:base 3:sulfonyl-fluoride2",0
+"alcohol 13:base 3:sulfonyl-fluoride3",0
+"alcohol 13:base 3:sulfonyl-fluoride4",0
+"alcohol 14:base 1:sulfonyl-fluoride1",0
+"alcohol 14:base 1:sulfonyl-fluoride2",0
+"alcohol 14:base 1:sulfonyl-fluoride3",0
+"alcohol 14:base 1:sulfonyl-fluoride4",0
+"alcohol 14:base 2:sulfonyl-fluoride1",0
+"alcohol 14:base 2:sulfonyl-fluoride2",0
+"alcohol 14:base 2:sulfonyl-fluoride3",0
+"alcohol 14:base 2:sulfonyl-fluoride4",0
+"alcohol 14:base 3:sulfonyl-fluoride1",0
+"alcohol 14:base 3:sulfonyl-fluoride2",0
+"alcohol 14:base 3:sulfonyl-fluoride3",0
+"alcohol 14:base 3:sulfonyl-fluoride4",0
+"alcohol 15:base 1:sulfonyl-fluoride1",0
+"alcohol 15:base 1:sulfonyl-fluoride2",0
+"alcohol 15:base 1:sulfonyl-fluoride3",0
+"alcohol 15:base 1:sulfonyl-fluoride4",0
+"alcohol 15:base 2:sulfonyl-fluoride1",0
+"alcohol 15:base 2:sulfonyl-fluoride2",0
+"alcohol 15:base 2:sulfonyl-fluoride3",0
+"alcohol 15:base 2:sulfonyl-fluoride4",0
+"alcohol 15:base 3:sulfonyl-fluoride1",0
+"alcohol 15:base 3:sulfonyl-fluoride2",0
+"alcohol 15:base 3:sulfonyl-fluoride3",0
+"alcohol 15:base 3:sulfonyl-fluoride4",0
+"alcohol 16:base 1:sulfonyl-fluoride1",0
+"alcohol 16:base 1:sulfonyl-fluoride2",0
+"alcohol 16:base 1:sulfonyl-fluoride3",0
+"alcohol 16:base 1:sulfonyl-fluoride4",0
+"alcohol 16:base 2:sulfonyl-fluoride1",0
+"alcohol 16:base 2:sulfonyl-fluoride2",0
+"alcohol 16:base 2:sulfonyl-fluoride3",0
+"alcohol 16:base 2:sulfonyl-fluoride4",0
+"alcohol 16:base 3:sulfonyl-fluoride1",0
+"alcohol 16:base 3:sulfonyl-fluoride2",0
+"alcohol 16:base 3:sulfonyl-fluoride3",0
+"alcohol 16:base 3:sulfonyl-fluoride4",0
+"alcohol 17:base 1:sulfonyl-fluoride1",0
+"alcohol 17:base 1:sulfonyl-fluoride2",0
+"alcohol 17:base 1:sulfonyl-fluoride3",0
+"alcohol 17:base 1:sulfonyl-fluoride4",0
+"alcohol 17:base 2:sulfonyl-fluoride1",0
+"alcohol 17:base 2:sulfonyl-fluoride2",0
+"alcohol 17:base 2:sulfonyl-fluoride3",0
+"alcohol 17:base 2:sulfonyl-fluoride4",0
+"alcohol 17:base 3:sulfonyl-fluoride1",0
+"alcohol 17:base 3:sulfonyl-fluoride2",0
+"alcohol 17:base 3:sulfonyl-fluoride3",0
+"alcohol 17:base 3:sulfonyl-fluoride4",0
+"alcohol 18:base 1:sulfonyl-fluoride1",0
+"alcohol 18:base 1:sulfonyl-fluoride2",0
+"alcohol 18:base 1:sulfonyl-fluoride3",0
+"alcohol 18:base 1:sulfonyl-fluoride4",0
+"alcohol 18:base 2:sulfonyl-fluoride1",0
+"alcohol 18:base 2:sulfonyl-fluoride2",0
+"alcohol 18:base 2:sulfonyl-fluoride3",0
+"alcohol 18:base 2:sulfonyl-fluoride4",0
+"alcohol 18:base 3:sulfonyl-fluoride1",0
+"alcohol 18:base 3:sulfonyl-fluoride2",0
+"alcohol 18:base 3:sulfonyl-fluoride3",0
+"alcohol 18:base 3:sulfonyl-fluoride4",0
+"alcohol 19:base 1:sulfonyl-fluoride1",0
+"alcohol 19:base 1:sulfonyl-fluoride2",0
+"alcohol 19:base 1:sulfonyl-fluoride3",0
+"alcohol 19:base 1:sulfonyl-fluoride4",0
+"alcohol 19:base 2:sulfonyl-fluoride1",0
+"alcohol 19:base 2:sulfonyl-fluoride2",0
+"alcohol 19:base 2:sulfonyl-fluoride3",0
+"alcohol 19:base 2:sulfonyl-fluoride4",0
+"alcohol 19:base 3:sulfonyl-fluoride1",0
+"alcohol 19:base 3:sulfonyl-fluoride2",0
+"alcohol 19:base 3:sulfonyl-fluoride3",0
+"alcohol 19:base 3:sulfonyl-fluoride4",0
+"alcohol 20:base 1:sulfonyl-fluoride1",0
+"alcohol 20:base 1:sulfonyl-fluoride2",0
+"alcohol 20:base 1:sulfonyl-fluoride3",0
+"alcohol 20:base 1:sulfonyl-fluoride4",0
+"alcohol 20:base 2:sulfonyl-fluoride1",0
+"alcohol 20:base 2:sulfonyl-fluoride2",0
+"alcohol 20:base 2:sulfonyl-fluoride3",0
+"alcohol 20:base 2:sulfonyl-fluoride4",0
+"alcohol 20:base 3:sulfonyl-fluoride1",0
+"alcohol 20:base 3:sulfonyl-fluoride2",0
+"alcohol 20:base 3:sulfonyl-fluoride3",0
+"alcohol 20:base 3:sulfonyl-fluoride4",0
+"alcohol 21:base 1:sulfonyl-fluoride1",0
+"alcohol 21:base 1:sulfonyl-fluoride2",0
+"alcohol 21:base 1:sulfonyl-fluoride3",0
+"alcohol 21:base 1:sulfonyl-fluoride4",0
+"alcohol 21:base 2:sulfonyl-fluoride1",0
+"alcohol 21:base 2:sulfonyl-fluoride2",0
+"alcohol 21:base 2:sulfonyl-fluoride3",0
+"alcohol 21:base 2:sulfonyl-fluoride4",-0.0822462894570912
+"alcohol 21:base 3:sulfonyl-fluoride1",0
+"alcohol 21:base 3:sulfonyl-fluoride2",0
+"alcohol 21:base 3:sulfonyl-fluoride3",0
+"alcohol 21:base 3:sulfonyl-fluoride4",0
+"alcohol 22:base 1:sulfonyl-fluoride1",0
+"alcohol 22:base 1:sulfonyl-fluoride2",0
+"alcohol 22:base 1:sulfonyl-fluoride3",0
+"alcohol 22:base 1:sulfonyl-fluoride4",0
+"alcohol 22:base 2:sulfonyl-fluoride1",0
+"alcohol 22:base 2:sulfonyl-fluoride2",0
+"alcohol 22:base 2:sulfonyl-fluoride3",0
+"alcohol 22:base 2:sulfonyl-fluoride4",0
+"alcohol 22:base 3:sulfonyl-fluoride1",0
+"alcohol 22:base 3:sulfonyl-fluoride2",0
+"alcohol 22:base 3:sulfonyl-fluoride3",0
+"alcohol 22:base 3:sulfonyl-fluoride4",0
+"alcohol 23:base 1:sulfonyl-fluoride1",0
+"alcohol 23:base 1:sulfonyl-fluoride2",0
+"alcohol 23:base 1:sulfonyl-fluoride3",0
+"alcohol 23:base 1:sulfonyl-fluoride4",0
+"alcohol 23:base 2:sulfonyl-fluoride1",0
+"alcohol 23:base 2:sulfonyl-fluoride2",0
+"alcohol 23:base 2:sulfonyl-fluoride3",0
+"alcohol 23:base 2:sulfonyl-fluoride4",0
+"alcohol 23:base 3:sulfonyl-fluoride1",0
+"alcohol 23:base 3:sulfonyl-fluoride2",0
+"alcohol 23:base 3:sulfonyl-fluoride3",0
+"alcohol 23:base 3:sulfonyl-fluoride4",0
+"alcohol 24:base 1:sulfonyl-fluoride1",0
+"alcohol 24:base 1:sulfonyl-fluoride2",0
+"alcohol 24:base 1:sulfonyl-fluoride3",0
+"alcohol 24:base 1:sulfonyl-fluoride4",0
+"alcohol 24:base 2:sulfonyl-fluoride1",0
+"alcohol 24:base 2:sulfonyl-fluoride2",0
+"alcohol 24:base 2:sulfonyl-fluoride3",0
+"alcohol 24:base 2:sulfonyl-fluoride4",0
+"alcohol 24:base 3:sulfonyl-fluoride1",0
+"alcohol 24:base 3:sulfonyl-fluoride2",0
+"alcohol 24:base 3:sulfonyl-fluoride3",0
+"alcohol 24:base 3:sulfonyl-fluoride4",0
+"alcohol 25:base 1:sulfonyl-fluoride1",0
+"alcohol 25:base 1:sulfonyl-fluoride2",0
+"alcohol 25:base 1:sulfonyl-fluoride3",0
+"alcohol 25:base 1:sulfonyl-fluoride4",0
+"alcohol 25:base 2:sulfonyl-fluoride1",0
+"alcohol 25:base 2:sulfonyl-fluoride2",0
+"alcohol 25:base 2:sulfonyl-fluoride3",0
+"alcohol 25:base 2:sulfonyl-fluoride4",0
+"alcohol 25:base 3:sulfonyl-fluoride1",0
+"alcohol 25:base 3:sulfonyl-fluoride2",0
+"alcohol 25:base 3:sulfonyl-fluoride3",0
+"alcohol 25:base 3:sulfonyl-fluoride4",0
+"alcohol 26:base 1:sulfonyl-fluoride1",0
+"alcohol 26:base 1:sulfonyl-fluoride2",0
+"alcohol 26:base 1:sulfonyl-fluoride3",0
+"alcohol 26:base 1:sulfonyl-fluoride4",0
+"alcohol 26:base 2:sulfonyl-fluoride1",0
+"alcohol 26:base 2:sulfonyl-fluoride2",0
+"alcohol 26:base 2:sulfonyl-fluoride3",0
+"alcohol 26:base 2:sulfonyl-fluoride4",0
+"alcohol 26:base 3:sulfonyl-fluoride1",0
+"alcohol 26:base 3:sulfonyl-fluoride2",0
+"alcohol 26:base 3:sulfonyl-fluoride3",0
+"alcohol 26:base 3:sulfonyl-fluoride4",0
+"alcohol 27:base 1:sulfonyl-fluoride1",0
+"alcohol 27:base 1:sulfonyl-fluoride2",0
+"alcohol 27:base 1:sulfonyl-fluoride3",0
+"alcohol 27:base 1:sulfonyl-fluoride4",0
+"alcohol 27:base 2:sulfonyl-fluoride1",0
+"alcohol 27:base 2:sulfonyl-fluoride2",0
+"alcohol 27:base 2:sulfonyl-fluoride3",0
+"alcohol 27:base 2:sulfonyl-fluoride4",0
+"alcohol 27:base 3:sulfonyl-fluoride1",0
+"alcohol 27:base 3:sulfonyl-fluoride2",0
+"alcohol 27:base 3:sulfonyl-fluoride3",0
+"alcohol 27:base 3:sulfonyl-fluoride4",0
+"alcohol 28:base 1:sulfonyl-fluoride1",0
+"alcohol 28:base 1:sulfonyl-fluoride2",0
+"alcohol 28:base 1:sulfonyl-fluoride3",0
+"alcohol 28:base 1:sulfonyl-fluoride4",0
+"alcohol 28:base 2:sulfonyl-fluoride1",0
+"alcohol 28:base 2:sulfonyl-fluoride2",0
+"alcohol 28:base 2:sulfonyl-fluoride3",0
+"alcohol 28:base 2:sulfonyl-fluoride4",0
+"alcohol 28:base 3:sulfonyl-fluoride1",0
+"alcohol 28:base 3:sulfonyl-fluoride2",0
+"alcohol 28:base 3:sulfonyl-fluoride3",0
+"alcohol 28:base 3:sulfonyl-fluoride4",-0.161430269269296
+"alcohol 29:base 1:sulfonyl-fluoride1",0
+"alcohol 29:base 1:sulfonyl-fluoride2",0
+"alcohol 29:base 1:sulfonyl-fluoride3",0
+"alcohol 29:base 1:sulfonyl-fluoride4",0
+"alcohol 29:base 2:sulfonyl-fluoride1",0.0232735152382588
+"alcohol 29:base 2:sulfonyl-fluoride2",0
+"alcohol 29:base 2:sulfonyl-fluoride3",0
+"alcohol 29:base 2:sulfonyl-fluoride4",-0.140062357993226
+"alcohol 29:base 3:sulfonyl-fluoride1",0
+"alcohol 29:base 3:sulfonyl-fluoride2",0
+"alcohol 29:base 3:sulfonyl-fluoride3",0
+"alcohol 29:base 3:sulfonyl-fluoride4",0
+"alcohol 30:base 1:sulfonyl-fluoride1",0
+"alcohol 30:base 1:sulfonyl-fluoride2",0
+"alcohol 30:base 1:sulfonyl-fluoride3",0
+"alcohol 30:base 1:sulfonyl-fluoride4",0
+"alcohol 30:base 2:sulfonyl-fluoride1",0
+"alcohol 30:base 2:sulfonyl-fluoride2",0
+"alcohol 30:base 2:sulfonyl-fluoride3",0
+"alcohol 30:base 2:sulfonyl-fluoride4",0
+"alcohol 30:base 3:sulfonyl-fluoride1",0
+"alcohol 30:base 3:sulfonyl-fluoride2",0
+"alcohol 30:base 3:sulfonyl-fluoride3",0
+"alcohol 30:base 3:sulfonyl-fluoride4",0
+"alcohol 31:base 1:sulfonyl-fluoride1",0
+"alcohol 31:base 1:sulfonyl-fluoride2",0
+"alcohol 31:base 1:sulfonyl-fluoride3",0
+"alcohol 31:base 1:sulfonyl-fluoride4",0
+"alcohol 31:base 2:sulfonyl-fluoride1",0
+"alcohol 31:base 2:sulfonyl-fluoride2",0
+"alcohol 31:base 2:sulfonyl-fluoride3",0
+"alcohol 31:base 2:sulfonyl-fluoride4",0
+"alcohol 31:base 3:sulfonyl-fluoride1",0
+"alcohol 31:base 3:sulfonyl-fluoride2",0
+"alcohol 31:base 3:sulfonyl-fluoride3",0
+"alcohol 31:base 3:sulfonyl-fluoride4",0
+"alcohol 32:base 1:sulfonyl-fluoride1",0
+"alcohol 32:base 1:sulfonyl-fluoride2",0
+"alcohol 32:base 1:sulfonyl-fluoride3",0
+"alcohol 32:base 1:sulfonyl-fluoride4",0
+"alcohol 32:base 2:sulfonyl-fluoride1",0
+"alcohol 32:base 2:sulfonyl-fluoride2",0
+"alcohol 32:base 2:sulfonyl-fluoride3",0
+"alcohol 32:base 2:sulfonyl-fluoride4",0
+"alcohol 32:base 3:sulfonyl-fluoride1",0
+"alcohol 32:base 3:sulfonyl-fluoride2",0
+"alcohol 32:base 3:sulfonyl-fluoride3",0
+"alcohol 32:base 3:sulfonyl-fluoride4",0
+"alcohol 33:base 1:sulfonyl-fluoride1",0
+"alcohol 33:base 1:sulfonyl-fluoride2",0
+"alcohol 33:base 1:sulfonyl-fluoride3",0
+"alcohol 33:base 1:sulfonyl-fluoride4",0
+"alcohol 33:base 2:sulfonyl-fluoride1",0
+"alcohol 33:base 2:sulfonyl-fluoride2",0
+"alcohol 33:base 2:sulfonyl-fluoride3",0
+"alcohol 33:base 2:sulfonyl-fluoride4",0.100051490633813
+"alcohol 33:base 3:sulfonyl-fluoride1",0
+"alcohol 33:base 3:sulfonyl-fluoride2",0
+"alcohol 33:base 3:sulfonyl-fluoride3",0
+"alcohol 33:base 3:sulfonyl-fluoride4",0
+"alcohol 34:base 1:sulfonyl-fluoride1",0
+"alcohol 34:base 1:sulfonyl-fluoride2",0
+"alcohol 34:base 1:sulfonyl-fluoride3",0
+"alcohol 34:base 1:sulfonyl-fluoride4",0
+"alcohol 34:base 2:sulfonyl-fluoride1",0
+"alcohol 34:base 2:sulfonyl-fluoride2",0
+"alcohol 34:base 2:sulfonyl-fluoride3",0
+"alcohol 34:base 2:sulfonyl-fluoride4",-0.0550045002032344
+"alcohol 34:base 3:sulfonyl-fluoride1",0
+"alcohol 34:base 3:sulfonyl-fluoride2",0
+"alcohol 34:base 3:sulfonyl-fluoride3",0
+"alcohol 34:base 3:sulfonyl-fluoride4",0
+"alcohol 35:base 1:sulfonyl-fluoride1",0
+"alcohol 35:base 1:sulfonyl-fluoride2",0
+"alcohol 35:base 1:sulfonyl-fluoride3",0
+"alcohol 35:base 1:sulfonyl-fluoride4",0
+"alcohol 35:base 2:sulfonyl-fluoride1",0
+"alcohol 35:base 2:sulfonyl-fluoride2",0
+"alcohol 35:base 2:sulfonyl-fluoride3",0
+"alcohol 35:base 2:sulfonyl-fluoride4",0
+"alcohol 35:base 3:sulfonyl-fluoride1",0
+"alcohol 35:base 3:sulfonyl-fluoride2",0
+"alcohol 35:base 3:sulfonyl-fluoride3",0
+"alcohol 35:base 3:sulfonyl-fluoride4",0
+"alcohol 36:base 1:sulfonyl-fluoride1",0
+"alcohol 36:base 1:sulfonyl-fluoride2",0
+"alcohol 36:base 1:sulfonyl-fluoride3",0
+"alcohol 36:base 1:sulfonyl-fluoride4",0
+"alcohol 36:base 2:sulfonyl-fluoride1",0
+"alcohol 36:base 2:sulfonyl-fluoride2",0
+"alcohol 36:base 2:sulfonyl-fluoride3",0
+"alcohol 36:base 2:sulfonyl-fluoride4",0
+"alcohol 36:base 3:sulfonyl-fluoride1",0
+"alcohol 36:base 3:sulfonyl-fluoride2",0
+"alcohol 36:base 3:sulfonyl-fluoride3",0
+"alcohol 36:base 3:sulfonyl-fluoride4",0
